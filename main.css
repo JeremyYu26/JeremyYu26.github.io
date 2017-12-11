@@ -1,0 +1,29 @@
+body{
+background-color:lightblue
+
+}
+p{
+    font-size:100px;
+    font-weight:bold;
+    color:red;
+    font-family: Helvetica;
+}
+.person{
+    color:green;
+}
+#Pipipig{
+    color:black;
+}
+
+a:link{
+    color:yellow;
+}
+a:visited{
+    color:blueviolet;
+}
+a:active{
+    color:black;
+}
+a:hover{
+    color:red;
+}
