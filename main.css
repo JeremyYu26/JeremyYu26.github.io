@@ -9,10 +9,25 @@ p{
     font-family: Helvetica;
 }
 .person{
-    color:green;
+    color:#00B2D1;
+    text-align:center;
+    margin: 0 0 0 0;
+    padding: 5px 0 0 0;
+    width:100%;
 }
-#Pipipig{
-    color:black;
+h1{
+    margin: 15px 0;
+    font-weight:normal;
+    font-size:1.50em;
+    line-height:0.8em;
+    text-align:center;
+}
+h2{
+    margin: 15px 0;
+    font-weight:normal;
+    font-size:1.25em;
+    line-height:0.8em;
+    text-align:center;
 }
 
 a:link{
@@ -26,4 +41,16 @@ a:active{
 }
 a:hover{
     color:red;
+}
+footer{
+    font-size:0.75em;
+    text-align:center;
+    padding-top:20px;
+    clear:both;
+}
+img{
+    width:10%;
+}
+#OS{
+    width:30%;
 }
